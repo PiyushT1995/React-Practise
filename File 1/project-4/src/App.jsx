@@ -1,4 +1,5 @@
 import Assignment1 from "./assignment/Assignment1";
+import Assignment2 from "./assignment/Assignment2";
 import ProfileCard from "./componets/ProfileCard";
 
 function App(){
@@ -23,6 +24,7 @@ function App(){
       />
       <hr/>
       <Assignment1 name="Piyush"/>
+      <Assignment2 age={32}/>
 
     </div>
   );
