@@ -14,7 +14,6 @@ function Counter(){
         Decrease
       </button>
 
-
     </div>
 
   );
