@@ -1,6 +1,7 @@
 import Assignment1 from "./assignment/Assignment1";
 import Assignment2 from "./assignment/Assignment2";
 import Assignment3 from "./assignment/Assignment3";
+import Assignment4 from "./assignment/Assignment4";
 import ProfileCard from "./componets/ProfileCard";
 
 function App(){
@@ -30,6 +31,8 @@ function App(){
       title="Harry Potter"
       description="Harry Potter Description"
       />
+      <hr/>
+      <Assignment4 buttonText="Button"/>
       
 
     </div>
